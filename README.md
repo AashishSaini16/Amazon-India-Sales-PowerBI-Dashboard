@@ -4,8 +4,9 @@ This Power BI dashboard provides a comprehensive analysis of sales data for Amaz
 
 ## Data Source
 
-The sales data used in this dashboard is sourced from Google Drive.  
-[Google Drive Folder](https://drive.google.com/drive/folders/1s9wfG28MdKqbjCUvne0izATwwgzSwSd9)
+The sales data used in this dashboard is sourced from [Google Drive](https://drive.google.com/drive/folders/1s9wfG28MdKqbjCUvne0izATwwgzSwSd9).
+
+Click on the link below to check the [Final_Report](https://github.com/AashishSaini16/Amazon-India-Sales-PowerBI-Dashboard/blob/main/Amazon_Sales.pdf).
 
 ## Key Features
 
